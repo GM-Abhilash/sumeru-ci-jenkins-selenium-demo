@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.ohrm.testcases.TestCase01
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.757 sec <<< FAILURE!
+testcase01(com.ohrm.testcases.TestCase01)  Time elapsed: 0.081 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.ohrm.login.BasePage.LaunchBrowser(BasePage.java:20)
+	at com.ohrm.testcases.TestCase01.testcase01(TestCase01.java:11)
+
